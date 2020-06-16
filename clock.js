@@ -1,3 +1,4 @@
+// Clock Image
 window.addEventListener("load", function () {
   clockRun();
 });
